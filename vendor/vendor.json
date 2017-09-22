@@ -1,0 +1,512 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "P0zAKmJ6IV9pl4/siCFV3BsddqQ=",
+			"origin": "igen.com/vendor/github.com/Shopify/sarama",
+			"path": "github.com/Shopify/sarama",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "XfGF6G3ISzsY6YYtSqr0u3HG1bs=",
+			"origin": "igen.com/vendor/github.com/Sirupsen/logrus",
+			"path": "github.com/Sirupsen/logrus",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "DlgcgBX24I0JrJIFNaYSRUS7iW0=",
+			"origin": "igen.com/vendor/github.com/apache/thrift/lib/go/thrift",
+			"path": "github.com/apache/thrift/lib/go/thrift",
+			"revision": "b8ee72de5bf9318d50846852082325d0f932682b",
+			"revisionTime": "2017-05-31T16:50:12Z"
+		},
+		{
+			"checksumSHA1": "SkoyrWJR3OI+AZ80xbndVye1Gzc=",
+			"origin": "igen.com/vendor/github.com/astaxie/beego",
+			"path": "github.com/astaxie/beego",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "DPEoKPetckr8n6lCykMu3Po3PAs=",
+			"origin": "igen.com/vendor/github.com/astaxie/beego/config",
+			"path": "github.com/astaxie/beego/config",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "iZ7Nlj++9sGGrw8mmYpA9Sm2SbI=",
+			"origin": "igen.com/vendor/github.com/astaxie/beego/context",
+			"path": "github.com/astaxie/beego/context",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "+5TpkCiIAd6g6ecRkPbGS/Ivbl8=",
+			"origin": "igen.com/vendor/github.com/astaxie/beego/context/param",
+			"path": "github.com/astaxie/beego/context/param",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "2Zx/H7cxwDneCICsKGGwMH1xnpE=",
+			"origin": "igen.com/vendor/github.com/astaxie/beego/grace",
+			"path": "github.com/astaxie/beego/grace",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "344q9RmrnioQ8oSNrxuBA1/Rpp0=",
+			"origin": "igen.com/vendor/github.com/astaxie/beego/logs",
+			"path": "github.com/astaxie/beego/logs",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "nn1W52oRi2Hqt1jzIUA7/KTij/0=",
+			"origin": "igen.com/vendor/github.com/astaxie/beego/orm",
+			"path": "github.com/astaxie/beego/orm",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "WGnti4OYSissIV67mLh9a14lwxk=",
+			"origin": "igen.com/vendor/github.com/astaxie/beego/session",
+			"path": "github.com/astaxie/beego/session",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "B6+D5EMUhOmo6I5wIVoTwNfcsV8=",
+			"origin": "igen.com/vendor/github.com/astaxie/beego/toolbox",
+			"path": "github.com/astaxie/beego/toolbox",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "wyz5HgdoDurteHhp63m+CwKx7zg=",
+			"origin": "igen.com/vendor/github.com/astaxie/beego/utils",
+			"path": "github.com/astaxie/beego/utils",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "lszRg9nmy3Lw0QhkdBD2HtRRpxA=",
+			"origin": "igen.com/vendor/github.com/bsm/sarama-cluster",
+			"path": "github.com/bsm/sarama-cluster",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "aeMQwIvMh0XOP8UqV+z/YR8DW9g=",
+			"origin": "igen.com/vendor/github.com/cihub/seelog",
+			"path": "github.com/cihub/seelog",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "IObxVi6ExAwv97Pv8NYswDXxEiM=",
+			"origin": "igen.com/vendor/github.com/cihub/seelog/archive",
+			"path": "github.com/cihub/seelog/archive",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "STXa3HCp/W61OP8fMvOvq32kS0k=",
+			"origin": "igen.com/vendor/github.com/cihub/seelog/archive/gzip",
+			"path": "github.com/cihub/seelog/archive/gzip",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "uBsd1EWQ5ApkrXJn6GGIFo2v8Hw=",
+			"origin": "igen.com/vendor/github.com/cihub/seelog/archive/tar",
+			"path": "github.com/cihub/seelog/archive/tar",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "GFlQZMvVnTnpAoY3S/G5Z7o6UjY=",
+			"origin": "igen.com/vendor/github.com/cihub/seelog/archive/zip",
+			"path": "github.com/cihub/seelog/archive/zip",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "hSW5aTXSS684a4ldP51AulRDWtg=",
+			"origin": "igen.com/vendor/github.com/cznic/b",
+			"path": "github.com/cznic/b",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "Lps/+JqMRVlrXgO/+cazYcfsglg=",
+			"origin": "igen.com/vendor/github.com/davecgh/go-spew/spew",
+			"path": "github.com/davecgh/go-spew/spew",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "o0psFRtB8EoelTAEhJSqrtXdwJY=",
+			"origin": "igen.com/vendor/github.com/eapache/go-resiliency/breaker",
+			"path": "github.com/eapache/go-resiliency/breaker",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "jZ/Z0i7G8a+9GQ7uOzUbLI/FubU=",
+			"origin": "igen.com/vendor/github.com/eapache/go-xerial-snappy",
+			"path": "github.com/eapache/go-xerial-snappy",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "Jv+5MP/HXSnx830En3Iwmj9v7g0=",
+			"origin": "igen.com/vendor/github.com/eapache/queue",
+			"path": "github.com/eapache/queue",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "6X3O3mfvOyiwV2iAb5GjxARs08c=",
+			"origin": "igen.com/vendor/github.com/garyburd/redigo/internal",
+			"path": "github.com/garyburd/redigo/internal",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "pag8jse/RuPT1bj4RDkhSYbeSk8=",
+			"origin": "igen.com/vendor/github.com/garyburd/redigo/redis",
+			"path": "github.com/garyburd/redigo/redis",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "J5eoFmz4tPEJDieNPfCu5WzPF4Y=",
+			"origin": "igen.com/vendor/github.com/go-redis/redis",
+			"path": "github.com/go-redis/redis",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "XNaNH8Q76v20CfLeOPXEkAudIwU=",
+			"origin": "igen.com/vendor/github.com/go-redis/redis/internal",
+			"path": "github.com/go-redis/redis/internal",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "BuzQsdMJMUXm8Zfwtuoz4QUdnZE=",
+			"origin": "igen.com/vendor/github.com/go-redis/redis/internal/consistenthash",
+			"path": "github.com/go-redis/redis/internal/consistenthash",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "pgFOanECYY7qj95cq3730Z3ZDoo=",
+			"origin": "igen.com/vendor/github.com/go-redis/redis/internal/hashtag",
+			"path": "github.com/go-redis/redis/internal/hashtag",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "Rz9f7s9dLqedXL+p+guhTLY80Yk=",
+			"origin": "igen.com/vendor/github.com/go-redis/redis/internal/pool",
+			"path": "github.com/go-redis/redis/internal/pool",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "YybI5qHM5IZSbBCAEKdg2E8+SH4=",
+			"origin": "igen.com/vendor/github.com/go-redis/redis/internal/proto",
+			"path": "github.com/go-redis/redis/internal/proto",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "rss3OHIMVB7AtDqdMnFEiWbGraY=",
+			"origin": "igen.com/vendor/github.com/go-sql-driver/mysql",
+			"path": "github.com/go-sql-driver/mysql",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "cAOtb8Ni26iTpUnv3T0TWl3uYHU=",
+			"origin": "igen.com/vendor/github.com/golang/protobuf/proto",
+			"path": "github.com/golang/protobuf/proto",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "ShrW78DS7cme1kgz+uhS3454wHU=",
+			"origin": "igen.com/vendor/github.com/golang/protobuf/protoc-gen-go/descriptor",
+			"path": "github.com/golang/protobuf/protoc-gen-go/descriptor",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "XPjs5DtexXGYfmZbsjwUNM7lmqg=",
+			"origin": "igen.com/vendor/github.com/golang/protobuf/ptypes/any",
+			"path": "github.com/golang/protobuf/ptypes/any",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "OV+/R43DDDJ/Gxrx9oQob/K7sL0=",
+			"origin": "igen.com/vendor/github.com/golang/snappy",
+			"path": "github.com/golang/snappy",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "xppNdUqJD2bH24qAi7cSewKYNwg=",
+			"origin": "igen.com/vendor/github.com/lestrrat/go-file-rotatelogs",
+			"path": "github.com/lestrrat/go-file-rotatelogs",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "CJfJZ5hutumVFSEPOSXy5TIsnII=",
+			"origin": "igen.com/vendor/github.com/lestrrat/go-strftime",
+			"path": "github.com/lestrrat/go-strftime",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "imr1t7r6P5Bz7DGR2sxDymLWo7w=",
+			"origin": "igen.com/vendor/github.com/pierrec/lz4",
+			"path": "github.com/pierrec/lz4",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "W3nQ93X2gcDvauegfuko+UOkfZc=",
+			"origin": "igen.com/vendor/github.com/pierrec/xxHash/xxHash32",
+			"path": "github.com/pierrec/xxHash/xxHash32",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "mR79ABWFyrDTTdhFPxwUN19T45Q=",
+			"origin": "igen.com/vendor/github.com/pkg/errors",
+			"path": "github.com/pkg/errors",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "4v560153KegQoPMos2oUnWbLE0o=",
+			"origin": "igen.com/vendor/github.com/processout/grpc-go-pool",
+			"path": "github.com/processout/grpc-go-pool",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "DIjooF5+DLH5JSOjqnBlfNh9dFU=",
+			"origin": "igen.com/vendor/github.com/rcrowley/go-metrics",
+			"path": "github.com/rcrowley/go-metrics",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "jo5zdWTO4I1OpOT0peViRHuewkg=",
+			"origin": "igen.com/vendor/github.com/rifflock/lfshook",
+			"path": "github.com/rifflock/lfshook",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "iWQLzuCxgolL1+Ol9zCXFpQZmjk=",
+			"origin": "igen.com/vendor/github.com/samuel/go-zookeeper/zk",
+			"path": "github.com/samuel/go-zookeeper/zk",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "K5M2kENXrRM5d7eqSnannCe22y4=",
+			"origin": "igen.com/vendor/github.com/tidwall/gjson",
+			"path": "github.com/tidwall/gjson",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "00I0SmLvyPirL1+amoGiTkQqUUc=",
+			"origin": "igen.com/vendor/github.com/tidwall/match",
+			"path": "github.com/tidwall/match",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "FC8+UxgSXDG01WpvOCH9s654hRM=",
+			"origin": "igen.com/vendor/github.com/tsuna/gohbase",
+			"path": "github.com/tsuna/gohbase",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "sHJ3GSVUg6ujo+Qyzlbr0NgNxqQ=",
+			"origin": "igen.com/vendor/github.com/tsuna/gohbase/filter",
+			"path": "github.com/tsuna/gohbase/filter",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "nUCxZtBsHXE8rXXtLU981TShKws=",
+			"origin": "igen.com/vendor/github.com/tsuna/gohbase/hrpc",
+			"path": "github.com/tsuna/gohbase/hrpc",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "YmFxeeby9I1QiECT88ypJPWpzig=",
+			"origin": "igen.com/vendor/github.com/tsuna/gohbase/pb",
+			"path": "github.com/tsuna/gohbase/pb",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "3RtJLbw0aLgRHjk+YHgpN7yQVOs=",
+			"origin": "igen.com/vendor/github.com/tsuna/gohbase/region",
+			"path": "github.com/tsuna/gohbase/region",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "a7WYi/xSOKb+1jrJq6poK9d8PsA=",
+			"origin": "igen.com/vendor/github.com/tsuna/gohbase/zk",
+			"path": "github.com/tsuna/gohbase/zk",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "Y+HGqEkYM15ir+J93MEaHdyFy0c=",
+			"origin": "igen.com/vendor/golang.org/x/net/context",
+			"path": "golang.org/x/net/context",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "3iRe2pfbi8csCdZLGDvpV2RdMfQ=",
+			"origin": "igen.com/vendor/golang.org/x/net/http2",
+			"path": "golang.org/x/net/http2",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "ezWhc7n/FtqkLDQKeU2JbW+80tE=",
+			"origin": "igen.com/vendor/golang.org/x/net/http2/hpack",
+			"path": "golang.org/x/net/http2/hpack",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "VrzPJyWI6disCgYuVEQzkjqUsJk=",
+			"origin": "igen.com/vendor/golang.org/x/net/idna",
+			"path": "golang.org/x/net/idna",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "UxahDzW2v4mf/+aFxruuupaoIwo=",
+			"origin": "igen.com/vendor/golang.org/x/net/internal/timeseries",
+			"path": "golang.org/x/net/internal/timeseries",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "3xyuaSNmClqG4YWC7g0isQIbUTc=",
+			"origin": "igen.com/vendor/golang.org/x/net/lex/httplex",
+			"path": "golang.org/x/net/lex/httplex",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "9EZG3s2eOREO7WkBvigjk57wK/8=",
+			"origin": "igen.com/vendor/golang.org/x/net/trace",
+			"path": "golang.org/x/net/trace",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "faFDXp++cLjLBlvsr+izZ+go1WU=",
+			"origin": "igen.com/vendor/golang.org/x/text/secure/bidirule",
+			"path": "golang.org/x/text/secure/bidirule",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "ziMb9+ANGRJSSIuxYdRbA+cDRBQ=",
+			"origin": "igen.com/vendor/golang.org/x/text/transform",
+			"path": "golang.org/x/text/transform",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "MRLtTu/vpd18le8/HPLxOdjO5RE=",
+			"origin": "igen.com/vendor/golang.org/x/text/unicode/bidi",
+			"path": "golang.org/x/text/unicode/bidi",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "kKylzIrLEnH8NKyeVAL0dq5gjVQ=",
+			"origin": "igen.com/vendor/golang.org/x/text/unicode/norm",
+			"path": "golang.org/x/text/unicode/norm",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "AvVpgwhxhJgjoSledwDtYrEKVE4=",
+			"origin": "igen.com/vendor/google.golang.org/genproto/googleapis/rpc/status",
+			"path": "google.golang.org/genproto/googleapis/rpc/status",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "OzKSI/hVUMrE+jOn7zHxahTQ6FE=",
+			"origin": "igen.com/vendor/google.golang.org/grpc",
+			"path": "google.golang.org/grpc",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "/eTpFgjvMq5Bc9hYnw5fzKG4B6I=",
+			"origin": "igen.com/vendor/google.golang.org/grpc/codes",
+			"path": "google.golang.org/grpc/codes",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "5ylThBvJnIcyWhL17AC9+Sdbw2E=",
+			"origin": "igen.com/vendor/google.golang.org/grpc/credentials",
+			"path": "google.golang.org/grpc/credentials",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "2NbY9kmMweE4VUsruRsvmViVnNg=",
+			"origin": "igen.com/vendor/google.golang.org/grpc/grpclb/grpc_lb_v1",
+			"path": "google.golang.org/grpc/grpclb/grpc_lb_v1",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "murHSzEfJ67eVy8n0rOLTvTKqPg=",
+			"origin": "igen.com/vendor/google.golang.org/grpc/grpclog",
+			"path": "google.golang.org/grpc/grpclog",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "U9vDe05/tQrvFBojOQX8Xk12W9I=",
+			"origin": "igen.com/vendor/google.golang.org/grpc/internal",
+			"path": "google.golang.org/grpc/internal",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "hcuHgKp8W0wIzoCnNfKI8NUss5o=",
+			"origin": "igen.com/vendor/google.golang.org/grpc/keepalive",
+			"path": "google.golang.org/grpc/keepalive",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "J8DW4DBL1VPi/u1t0zPI8SZr4To=",
+			"origin": "igen.com/vendor/google.golang.org/grpc/metadata",
+			"path": "google.golang.org/grpc/metadata",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "Zzb7Xsc3tbTJzrcZbSPyye+yxmw=",
+			"origin": "igen.com/vendor/google.golang.org/grpc/naming",
+			"path": "google.golang.org/grpc/naming",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "n5EgDdBqFMa2KQFhtl+FF/4gIFo=",
+			"origin": "igen.com/vendor/google.golang.org/grpc/peer",
+			"path": "google.golang.org/grpc/peer",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "Y7SqenZBLEIHtlIl0EBsKIeiqI8=",
+			"origin": "igen.com/vendor/google.golang.org/grpc/reflection",
+			"path": "google.golang.org/grpc/reflection",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "RUZq1tvSstWZJ1GEE2jjyw6qyIA=",
+			"origin": "igen.com/vendor/google.golang.org/grpc/reflection/grpc_reflection_v1alpha",
+			"path": "google.golang.org/grpc/reflection/grpc_reflection_v1alpha",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "ZY8Tq61fGK1stTuvwK5WoqcU8j8=",
+			"origin": "igen.com/vendor/google.golang.org/grpc/stats",
+			"path": "google.golang.org/grpc/stats",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "DIv9qbApAoh2cF2G3Br24lVPqUI=",
+			"origin": "igen.com/vendor/google.golang.org/grpc/status",
+			"path": "google.golang.org/grpc/status",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "aixGx/Kd0cj9ZlZHacpHe3XgMQ4=",
+			"origin": "igen.com/vendor/google.golang.org/grpc/tap",
+			"path": "google.golang.org/grpc/tap",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "CMz1xaGri4z5yPlN4cVJ7jtN8ss=",
+			"origin": "igen.com/vendor/google.golang.org/grpc/transport",
+			"path": "google.golang.org/grpc/transport",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "hAHuilJ3EVdKRYMMhvQl9arU+1Y=",
+			"origin": "igen.com/vendor/gopkg.in/olivere/elastic.v5",
+			"path": "gopkg.in/olivere/elastic.v5",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "pCApZfp2CeDnWbNVsyzNO62ZUXA=",
+			"origin": "igen.com/vendor/gopkg.in/olivere/elastic.v5/uritemplates",
+			"path": "gopkg.in/olivere/elastic.v5/uritemplates",
+			"revision": ""
+		}
+	],
+	"rootPath": "igen.com/bee"
+}

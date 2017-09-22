@@ -1,0 +1,25 @@
+syntax = "proto3";
+
+option java_multiple_files = true;
+option java_package = "net.devh.examples.grpc.lib";
+option java_outer_classname = "ClientProto";
+option objc_class_prefix = "CLIENT";
+
+package client;
+
+// The greeting service definition.
+service Client {
+    // Sends a greeting
+    rpc SayHello (ClientRequest) returns (ClientReply) {
+    }
+}
+
+// The request message containing the user's name.
+message ClientRequest {
+    string name = 1;
+}
+
+// The response message containing the greetings
+message ClientReply {
+    string message = 1;
+}

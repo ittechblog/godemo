@@ -1,0 +1,10 @@
+<seelog>
+    <outputs formatid="main">
+        <buffered size="10000" flushperiod="1000">
+            <rollingfile type="date" filename="d:/var/log/main.log" datepattern="2006.01.02" maxrolls="5"/>
+        </buffered>
+    </outputs>
+    <formats>
+        <format id="main" format="%Date %Time-%Level-%Msg%n"/>
+    </formats>
+</seelog>
